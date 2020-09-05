@@ -1,0 +1,1 @@
+<?php require TEMPLATE_PATH . DS .'firstSection.php';
